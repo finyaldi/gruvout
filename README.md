@@ -4,8 +4,10 @@
 1. Install Pygame:
 ```bash
 pip install pygame
+```
 
-### Ececude with
+### Execute with
 
 ```bash
 python game.py
+```
